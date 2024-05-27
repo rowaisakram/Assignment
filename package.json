@@ -1,0 +1,26 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowaisakram/Assignment.git"
+  },
+  "author": "Owais Akram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowaisakram/Assignment/issues"
+  },
+  "homepage": "https://github.com/rowaisakram/Assignment#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
